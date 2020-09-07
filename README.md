@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Bhavesh0327/Bhavesh0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hey there :wave: ! Glad to see you here :heart:
+<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0327&theme=vue&hide=css,tcl,html"></img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=Bhavesh0327&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<hr>
