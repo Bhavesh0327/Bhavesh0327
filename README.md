@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🔭 I’m currently working on [Automata](https://github.com/Bhavesh0327/Automata) and [Timper](https://github.com/Bhavesh0327/timper)
 - 🌱 I’m currently learning Golang and Cloud basics
-- 👯 I’m looking to collaborate on repos for [CNCF](https://www.cncf.io/)
 - 🌱 I love Competitive programming and CTFs
 - 📫 How to reach me: drop a hi! message on my [LinkedIn](https://www.linkedin.com/in/bhavesh-mandhan-833612b1/)
 - 😄 Pronouns: He/His
