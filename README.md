@@ -1,47 +1,72 @@
-<!--
-**Bhavesh0327/Bhavesh0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <a href="https://github.com/Bhavesh0327" target="_blank">Bhavesh</a> 
+<img src="https://media.giphy.com/media/hvRJCLFzcuHTK/giphy.gif" width="35"></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Engineer;Infrastructure+%26+Cloud+Architect;CTF+Player+%26+Security+Enthusiast;Guitarist+%2B+Footballer;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhavesh0327&label=Views&color=blue&style=flat" alt="bhavesh0327" />
+</p>
 
-### Hey there :wave: ! Glad to see you here :heart:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavesh0327&label=Views&color=blue&style=plastic" alt="bhavesh0327" /> </p>
+<p align="center">
+  <a href="https://twitter.com/bhavesh0327" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/bhavesh0327?style=social&label=Follow&logo=twitter" alt="Twitter Follow Badge" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/bhavesh0327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-bhavesh0327-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</p>
 
+<hr/>
 
-<a href="https://www.linkedin.com/in/bhavesh-mandhan-833612b1/">
-  <img align="left" alt="Bhavesh's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Bhavesh0327">
-  <img align="left" alt="Bhavesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+### 👨‍💻 About Me
 
-<br/>
-<br/>
+I'm a technology enthusiast with a deep passion for building robust infrastructure and scalable full-stack applications. My journey spans from crafting efficient backend services to orchestrating cloud environments.
 
+When I'm not deploying containers or debugging distributed systems, I'm likely competing in **Capture The Flag (CTF)** challenges to sharpen my security skills. Away from the keyboard, you'll find me jamming on my **guitar** or on the **football** field.
 
-- 🌱 I’m currently learning Golang and Cloud basics
-- 🌱 I love Competitive programming and CTFs
-- 📫 How to reach me: drop a hi! message on my [LinkedIn](https://www.linkedin.com/in/bhavesh-mandhan-833612b1/)
-- 😄 Pronouns: He/His
+- 🔭 **Current Focus**: Cloud-Native Architecture & Go
+- 🌱 **Learning**: Advanced Kubernetes Patterns & System Design
+- 💬 **Ask Me About**: Backend Development, Infrastructure as Code, or Security Fundamentals
 
-**Languages and Tools:**  
+<hr/>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+### 🛠️ Tech Stack
 
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  
+  <br/>
+  
+  <!-- Infrastructure -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0327&theme=vue&hide=css,tcl,html"></img>
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=Bhavesh0327&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<hr>
+<hr/>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh0327&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Bhavesh's GitHub Stats" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0327&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh0327&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<hr/>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
