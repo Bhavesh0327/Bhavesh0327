@@ -67,9 +67,9 @@ When I'm not deploying containers or debugging distributed systems, I'm likely c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh0327&show_icons=true&theme=radical&hide_border=true" alt="Bhavesh's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bhavesh0327&show_icons=true&theme=radical&hide_border=true" alt="Bhavesh's GitHub Stats" height="180" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh0327&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bhavesh0327&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
