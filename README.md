@@ -13,7 +13,9 @@
 
 <br/>
 
-### `0x01` &nbsp;how i build
+<details>
+<summary><code>0x01</code> &nbsp;<b>how i build</b> &nbsp;<sub><code>$ traceroute --explain how-i-build</code></sub></summary>
+<br/>
 
 <img src="./assets/traceroute.svg" alt="traceroute: client → edge → api → queue → worker → postgres, with observability tapped at every hop" width="100%" />
 
@@ -25,9 +27,15 @@
 - "works on my machine"
 ```
 
-### `0x02` &nbsp;services exposed
+</details>
+
+<details>
+<summary><code>0x02</code> &nbsp;<b>services exposed</b> &nbsp;<sub><code>$ nmap -sV -p- bhavesh0327</code></sub></summary>
+<br/>
 
 <img src="./assets/nmap.svg" alt="nmap scan: go, rust, python, kotlin, typescript, c++, postgresql, docker, kubernetes, ollama, linux" width="100%" />
+
+</details>
 
 ### `0x03` &nbsp;telemetry
 
