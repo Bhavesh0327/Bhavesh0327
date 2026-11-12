@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="410" viewBox="0 0 1000 410" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">
+<defs><clipPath id="win"><rect width="1000" height="410" rx="12"/></clipPath></defs>
+<g clip-path="url(#win)">
+<rect width="1000" height="410" fill="#0d1117"/>
+<rect width="1000" height="38" fill="#161b22"/>
+<line x1="0" y1="38" x2="1000" y2="38" stroke="#30363d"/>
+<circle cx="22" cy="19" r="6" fill="#ff5f57"/><circle cx="42" cy="19" r="6" fill="#febc2e"/><circle cx="62" cy="19" r="6" fill="#28c840"/>
+<text x="500.0" y="24" text-anchor="middle" font-size="12" fill="#8b949e">traceroute — how i build</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.30s" fill="freeze"/><text x="36" y="70" font-size="14" xml:space="preserve"><tspan fill="#39d353">bhavesh@github</tspan><tspan fill="#e6edf3">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#e6edf3">$ </tspan></text></g>
+<clipPath id="c0"><rect x="187.74" y="54" width="0" height="22"><animate attributeName="width" from="0" to="325.76" begin="0.65s" dur="1.76s" fill="freeze"/></rect></clipPath>
+<text x="187.74" y="70" font-size="14" fill="#e6edf3" clip-path="url(#c0)">traceroute --explain how-i-build</text>
+<g opacity="0"><set attributeName="opacity" to="1" begin="2.61s" fill="freeze"/><text x="36" y="100" font-size="13" fill="#8b949e">traceroute to production (stays correct), 6 hops max, every packet accounted for</text></g>
+<line x1="100.0" y1="182.0" x2="900.0" y2="182.0" stroke="#238636" stroke-width="1.5" stroke-dasharray="3 5"/>
+<path id="wire" d="M100.0 182.0 L900.0 182.0" fill="none"/>
+<circle r="4" fill="#39d353"><animateMotion dur="4.5s" begin="0.0s" repeatCount="indefinite"><mpath href="#wire"/></animateMotion></circle>
+<circle r="4" fill="#39d353"><animateMotion dur="4.5s" begin="1.5s" repeatCount="indefinite"><mpath href="#wire"/></animateMotion></circle>
+<circle r="4" fill="#39d353"><animateMotion dur="4.5s" begin="3.0s" repeatCount="indefinite"><mpath href="#wire"/></animateMotion></circle>
+<rect x="36.0" y="150" width="128" height="64" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<text x="48.0" y="174" font-size="11" fill="#238636">hop 01</text>
+<text x="48.0" y="197" font-size="16" font-weight="700" fill="#e6edf3">client</text>
+<text x="40.0" y="240" font-size="12" fill="#8b949e">typed sdk</text>
+<text x="40.0" y="258" font-size="12" fill="#8b949e">from openapi</text>
+<text x="180.0" y="140" text-anchor="middle" font-size="11" fill="#238636">0.21 ms</text>
+<rect x="196.0" y="150" width="128" height="64" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<text x="208.0" y="174" font-size="11" fill="#238636">hop 02</text>
+<text x="208.0" y="197" font-size="16" font-weight="700" fill="#e6edf3">edge</text>
+<text x="200.0" y="240" font-size="12" fill="#8b949e">tls · oidc+pkce</text>
+<text x="200.0" y="258" font-size="12" fill="#8b949e">rate limited</text>
+<text x="340.0" y="140" text-anchor="middle" font-size="11" fill="#238636">0.48 ms</text>
+<rect x="356.0" y="150" width="128" height="64" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<text x="368.0" y="174" font-size="11" fill="#238636">hop 03</text>
+<text x="368.0" y="197" font-size="16" font-weight="700" fill="#e6edf3">api</text>
+<text x="360.0" y="240" font-size="12" fill="#8b949e">stateless</text>
+<text x="360.0" y="258" font-size="12" fill="#8b949e">idempotency keys</text>
+<text x="500.0" y="140" text-anchor="middle" font-size="11" fill="#238636">1.02 ms</text>
+<rect x="516.0" y="150" width="128" height="64" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<text x="528.0" y="174" font-size="11" fill="#238636">hop 04</text>
+<text x="528.0" y="197" font-size="16" font-weight="700" fill="#e6edf3">queue</text>
+<text x="520.0" y="240" font-size="12" fill="#8b949e">durable jobs</text>
+<text x="520.0" y="258" font-size="12" fill="#8b949e">at-least-once</text>
+<text x="660.0" y="140" text-anchor="middle" font-size="11" fill="#238636">0.33 ms</text>
+<rect x="676.0" y="150" width="128" height="64" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1.4"/>
+<text x="688.0" y="174" font-size="11" fill="#238636">hop 05</text>
+<text x="688.0" y="197" font-size="16" font-weight="700" fill="#e6edf3">worker</text>
+<text x="680.0" y="240" font-size="12" fill="#8b949e">sandboxed</text>
+<text x="680.0" y="258" font-size="12" fill="#8b949e">retry-safe</text>
+<text x="820.0" y="140" text-anchor="middle" font-size="11" fill="#238636">2.71 ms</text>
+<rect x="836.0" y="150" width="128" height="64" rx="6" fill="#0f2a17" stroke="#39d353" stroke-width="1.4"/>
+<text x="848.0" y="174" font-size="11" fill="#238636">hop 06</text>
+<text x="848.0" y="197" font-size="16" font-weight="700" fill="#39d353">postgres</text>
+<text x="840.0" y="240" font-size="12" fill="#8b949e">invariants as</text>
+<text x="840.0" y="258" font-size="12" fill="#8b949e">constraints</text>
+<rect x="36" y="304" width="928" height="44" rx="6" fill="none" stroke="#30363d" stroke-dasharray="4 4"/>
+<text x="52" y="331" font-size="13" fill="#e6edf3">tap<tspan fill="#8b949e">  ── json logs  ·  request ids end to end  ·  traces  ·  replayable audit history</tspan></text>
+<line x1="100.0" y1="268" x2="100.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<line x1="260.0" y1="268" x2="260.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<line x1="420.0" y1="268" x2="420.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<line x1="580.0" y1="268" x2="580.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<line x1="740.0" y1="268" x2="740.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<line x1="900.0" y1="268" x2="900.0" y2="304" stroke="#30363d" stroke-dasharray="2 4"/>
+<g opacity="0"><set attributeName="opacity" to="1" begin="3.01s" fill="freeze"/><text x="36" y="384" font-size="14" fill="#39d353">trace complete: 6 hops, 0 dropped writes, 0 double charges.</text></g>
+</g>
+<rect x="0.5" y="0.5" width="999" height="409" rx="12" fill="none" stroke="#30363d"/>
+</svg>
